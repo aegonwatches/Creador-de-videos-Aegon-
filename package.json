@@ -1,0 +1,13 @@
+{
+  "name": "dropbot-weekly",
+  "version": "1.0.0",
+  "description": "Informe semanal automático de dropshipping con IA",
+  "main": "dropbot.js",
+  "scripts": {
+    "start": "node dropbot.js",
+    "test": "node dropbot.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
