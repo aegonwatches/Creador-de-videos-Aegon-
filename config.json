@@ -1,0 +1,20 @@
+{
+  "skeleton": {
+    "title": "SKELETON",
+    "price": "89€",
+    "cta": "DM PARA COMPRAR",
+    "variations": 2
+  },
+  "mesh": {
+    "title": "MESH",
+    "price": "89€",
+    "cta": "DM PARA COMPRAR",
+    "variations": 2
+  },
+  "wood": {
+    "title": "WOOD",
+    "price": "119€",
+    "cta": "DM PARA COMPRAR",
+    "variations": 1
+  }
+}
